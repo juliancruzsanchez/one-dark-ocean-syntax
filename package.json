@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+        "spec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+        "type": "local"
+      },
+      "/private/tmp/apm-install-dir-118319-31815-1kkzp55.vwa9oirudi"
+    ]
+  ],
+  "_from": "../d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+  "_id": "js-syntax@1.0.0",
+  "_inCache": true,
+  "_location": "/js-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+    "spec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+  "_shasum": "a3a4097616a3a2c15c5dace2d3b4d199edd123fe",
+  "_shrinkwrap": null,
+  "_spec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
+  "_where": "/private/tmp/apm-install-dir-118319-31815-1kkzp55.vwa9oirudi",
+  "bugs": {
+    "url": "https://github.com/juliancruzsanchez/js-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A more complete One Dark Pro",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/juliancruzsanchez/js-syntax#readme",
+  "keywords": [
+    "one",
+    "dark",
+    "pro",
+    "vivid",
+    "syntax"
+  ],
+  "license": "MIT",
+  "name": "js-syntax",
+  "optionalDependencies": {},
+  "readme": "# One Dark Pro Vivid Syntax theme\n\nOne Dark Pro Vivid syntax port to Atom\n\n# Install\n\nOpen a console and type:\n\n```shell\napm install js-syntax\n```\n\nOr, inside Atom's settings select Install and then search for this package.\n\n# Screenshots\n\n### CSS\n![css](https://user-images.githubusercontent.com/15709414/30453225-c3b25586-995d-11e7-89e8-15e5dcf91862.png)\n\n---\n\n### HTML\n![html](https://user-images.githubusercontent.com/15709414/30453126-70f65b26-995d-11e7-9a5d-a31d6f3142f5.png)\n\n---\n\n### JavaScript\n![javascript](https://user-images.githubusercontent.com/15709414/30456153-1b805cc2-9968-11e7-9cec-c1d338f48d8b.png)\n\n---\n\n### Markdown\n![markdown](https://user-images.githubusercontent.com/15709414/30453010-0b408f0e-995d-11e7-96d6-4f6710cbb27c.png)\n\n---\n\n### PHP (for better color highlight use Atom >= 1.20.0)\n![php](https://user-images.githubusercontent.com/15709414/30452865-b597b758-995c-11e7-966c-c7771d923e6d.png)\n\n---\n\n### Python\n![python](https://user-images.githubusercontent.com/15709414/30448305-08b99cd4-9954-11e7-87b6-ddabc7db3bc1.png)\n\n---\n\n### Python with [Magic Python](https://atom.io/packages/magicpython) extension (recommended)\n![magicpython](https://user-images.githubusercontent.com/15709414/30448675-b90f46a6-9954-11e7-8a9f-bf48ca88fcd2.png)\n\n\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliancruzsanchez/js-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.0.0"
+}
