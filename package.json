@@ -15,9 +15,6 @@
     "vivid",
     "syntax"
   ],
-  "repository": {
-    "type": "git",
-    "url": "github.com/juliancruzsanchez/js-syntax.git"
-  },
+  "repository": "github:juliancruzsanchez/js-syntax",
   "theme": "syntax"
 }
