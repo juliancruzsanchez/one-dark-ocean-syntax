@@ -5,6 +5,9 @@
   "engines": {
     "atom": ">0.50.0"
   },
+  "keywords":[
+    "ocean"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/juliancruzsanchez/one-dark-ocean-syntax.git"
