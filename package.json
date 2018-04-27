@@ -1,40 +1,5 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-        "spec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-        "type": "local"
-      },
-      "/private/tmp/apm-install-dir-118319-31815-1kkzp55.vwa9oirudi"
-    ]
-  ],
-  "_from": "../d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-  "_id": "js-syntax@1.0.0",
-  "_inCache": true,
-  "_location": "/js-syntax",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-    "scope": null,
-    "escapedName": null,
-    "name": null,
-    "rawSpec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-    "spec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-    "type": "local"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "file:../d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-  "_shasum": "a3a4097616a3a2c15c5dace2d3b4d199edd123fe",
-  "_shrinkwrap": null,
-  "_spec": "/private/tmp/d-118319-31815-1fu4ya8.2e0k4q85mi/package.tgz",
-  "_where": "/private/tmp/apm-install-dir-118319-31815-1kkzp55.vwa9oirudi",
+
   "bugs": {
     "url": "https://github.com/juliancruzsanchez/js-syntax/issues"
   },
