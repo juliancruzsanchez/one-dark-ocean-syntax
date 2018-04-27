@@ -7,7 +7,7 @@ One Dark Pro Vivid syntax port to Atom
 Open a console and type:
 
 ```shell
-apm install js-syntax
+apm install better-than-one-dark-syntax
 ```
 
 Or, inside Atom's settings select Install and then search for this package.
@@ -25,7 +25,7 @@ Or, inside Atom's settings select Install and then search for this package.
 ---
 
 ### JavaScript
-![javascript](https://user-images.githubusercontent.com/15709414/30456153-1b805cc2-9968-11e7-9cec-c1d338f48d8b.png)
+![javascript](https://i.snag.gy/p4lbzr.jpg)
 
 ---
 
@@ -46,5 +46,3 @@ Or, inside Atom's settings select Install and then search for this package.
 
 ### Python with [Magic Python](https://atom.io/packages/magicpython) extension (recommended)
 ![magicpython](https://user-images.githubusercontent.com/15709414/30448675-b90f46a6-9954-11e7-8a9f-bf48ca88fcd2.png)
-
-
