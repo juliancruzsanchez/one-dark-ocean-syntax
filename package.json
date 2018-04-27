@@ -6,7 +6,8 @@
     "atom": ">0.50.0"
   },
   "keywords": [
-    "ocean"
+    "ocean", "one", "dark",
+    "syntax"
   ],
   "repository": {
     "type": "git",
