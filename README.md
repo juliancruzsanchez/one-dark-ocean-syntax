@@ -1,4 +1,4 @@
-# One Dark Pro Vivid Syntax theme
+# Better Than One Dark
 
 One Dark Pro Vivid syntax port to Atom
 
