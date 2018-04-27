@@ -7,7 +7,7 @@ One Dark Pro Vivid syntax port to Atom
 Open a console and type:
 
 ```shell
-apm install one-dark-pro-vivid-syntax
+apm install js-syntax
 ```
 
 Or, inside Atom's settings select Install and then search for this package.
