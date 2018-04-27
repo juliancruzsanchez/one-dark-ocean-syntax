@@ -1,9 +1,9 @@
 {
-  "name": "js-syntax",
+  "name": "Colorful Happy Dark Syntax",
   "description": "A more complete One Dark Pro",
   "version": "2.0.0-0",
   "bugs": {
-    "url": "https://github.com/juliancruzsanchez/js-syntax/issues"
+    "url": "https://github.com/juliancruzsanchez/colorful-yummy-syntax/issues"
   },
   "engines": {
     "atom": ">0.50.0"
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliancruzsanchez/js-syntax.git"
+    "url": "https://github.com/juliancruzsanchez/colorful-yummy-syntax.git"
   },
   "theme": "syntax"
 }

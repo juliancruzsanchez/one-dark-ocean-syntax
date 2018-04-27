@@ -8,6 +8,7 @@
 2 info using npm@3.10.10
 3 info using node@v6.9.5
 4 info git [ 'status', '--porcelain' ]
+<<<<<<< HEAD
 5 info lifecycle js-syntax@1.0.0-0~preversion: js-syntax@1.0.0-0
 6 silly lifecycle js-syntax@1.0.0-0~preversion: no script for preversion, continuing
 7 verbose version.write data { name: 'js-syntax',
@@ -47,3 +48,27 @@
 21 error If you need help, you may report this error at:
 21 error     <https://github.com/npm/npm/issues>
 22 verbose exit [ 1, true ]
+=======
+5 verbose stack Error: Git working directory not clean.
+5 verbose stack D npm-debug.log
+5 verbose stack     at /Applications/Atom.app/Contents/Resources/app/apm/node_modules/npm/lib/version.js:247:19
+5 verbose stack     at /Applications/Atom.app/Contents/Resources/app/apm/node_modules/npm/lib/utils/no-progress-while-running.js:21:8
+5 verbose stack     at ChildProcess.exithandler (child_process.js:197:7)
+5 verbose stack     at emitTwo (events.js:106:13)
+5 verbose stack     at ChildProcess.emit (events.js:191:7)
+5 verbose stack     at maybeClose (internal/child_process.js:877:16)
+5 verbose stack     at Socket.<anonymous> (internal/child_process.js:334:11)
+5 verbose stack     at emitOne (events.js:96:13)
+5 verbose stack     at Socket.emit (events.js:188:7)
+5 verbose stack     at Pipe._handle.close [as _onclose] (net.js:498:12)
+6 verbose cwd /Users/julian/.atom/packages/js-syntax
+7 error Darwin 17.6.0
+8 error argv "/Applications/Atom.app/Contents/Resources/app/apm/bin/node" "/Applications/Atom.app/Contents/Resources/app/apm/node_modules/npm/bin/npm-cli.js" "version" "premajor" "-m" "Prepare %s release"
+9 error node v6.9.5
+10 error npm  v3.10.10
+11 error Git working directory not clean.
+11 error D npm-debug.log
+12 error If you need help, you may report this error at:
+12 error     <https://github.com/npm/npm/issues>
+13 verbose exit [ 1, true ]
+>>>>>>> 89773b4dd81e6bcc040cbd153a98d32597f8c589
