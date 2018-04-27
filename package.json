@@ -1,7 +1,7 @@
 {
   "name": "betterthanonedark-syntax",
   "description": "Better than one dark syntax theme",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "engines": {
     "atom": ">0.50.0"
   },
