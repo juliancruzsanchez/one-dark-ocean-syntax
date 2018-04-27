@@ -16,8 +16,8 @@
     "syntax"
   ],
   "repository": {
-    "type": "git",
-    "url": "https://github.com/juliancruzsanchez/js-syntax.git"
+    "type": "ssh",
+    "url": "git@github.com:juliancruzsanchez/js-syntax.git"
   },
   "theme": "syntax"
 }
