@@ -1,13 +1,13 @@
 {
-  "name": "better-than-one-dark-syntax",
-  "description": "A more complete One Dark Pro",
+  "name": "betterthanonedark-syntax",
+  "description": "Better than one dark syntax theme",
   "version": "4.1.0",
   "engines": {
     "atom": ">0.50.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliancruzsanchez/betterthanonedark-syntax.git"
+    "url": "https://github.com/juliancruzsanchez/better-than-one-dark-syntax.git"
   },
   "theme": "syntax"
 }
