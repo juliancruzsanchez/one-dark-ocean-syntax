@@ -1,5 +1,5 @@
 {
-  "name": "betterthanonedark-syntax",
+  "name": "one-dark-ocean-syntax",
   "description": "Better than one dark syntax theme",
   "version": "4.2.0",
   "engines": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliancruzsanchez/better-than-one-dark-syntax.git"
+    "url": "https://github.com/juliancruzsanchez/one-dark-ocean-syntax.git"
   },
   "theme": "syntax"
 }
