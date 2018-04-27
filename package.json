@@ -1,23 +1,13 @@
 {
-  "name": "Colorful Happy Dark Syntax",
+  "name": "betterthanonedark-syntax",
   "description": "A more complete One Dark Pro",
-  "version": "2.0.0-0",
-  "bugs": {
-    "url": "https://github.com/juliancruzsanchez/colorful-yummy-syntax/issues"
-  },
+  "version": "2.0.2",
   "engines": {
     "atom": ">0.50.0"
   },
-  "keywords": [
-    "one",
-    "dark",
-    "pro",
-    "vivid",
-    "syntax"
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliancruzsanchez/colorful-yummy-syntax.git"
+    "url": "https://github.com/juliancruzsanchez/betterthanonedark-syntax.git"
   },
   "theme": "syntax"
 }
