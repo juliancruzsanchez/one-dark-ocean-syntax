@@ -1,6 +1,6 @@
 {
   "name": "one-dark-ocean-syntax",
-  "description": "Better than one dark syntax theme",
+  "description": "A custom syntax with a nice background a complete vivid colors. With a dark ocean colored background and nice color.",
   "version": "4.4.3",
   "engines": {
     "atom": ">0.50.0"
@@ -9,7 +9,8 @@
     "ocean",
     "one",
     "dark",
-    "syntax"
+    "syntax",
+    "subtle"
   ],
   "repository": {
     "type": "git",
