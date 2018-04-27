@@ -1,12 +1,14 @@
 {
   "name": "one-dark-ocean-syntax",
   "description": "Better than one dark syntax theme",
-  "version": "4.4.1",
+  "version": "4.4.2",
   "engines": {
     "atom": ">0.50.0"
   },
   "keywords": [
-    "ocean", "one", "dark",
+    "ocean",
+    "one",
+    "dark",
     "syntax"
   ],
   "repository": {
