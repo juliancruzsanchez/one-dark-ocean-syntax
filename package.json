@@ -1,7 +1,7 @@
 {
   "name": "betterthanonedark-syntax",
   "description": "A more complete One Dark Pro",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "engines": {
     "atom": ">0.50.0"
   },
